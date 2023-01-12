@@ -1,0 +1,217 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "FKOPv4kLCfjYJ9U-45v6AloDdbM",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 162,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HY76IFEgp4Ho52MqlqvcS0Gq1zw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oNBvC25bxQU"
+      },
+      "snippet": {
+        "publishedAt": "2020-04-02T22:33:39Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "It's OK to feel overwhelmed. Here's what to do next | Elizabeth Gilbert",
+        "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nIf you’re feeling anxious or fearful during the coronavirus pandemic, you're not alone. Offering hope and understanding, author Elizabeth Gilbert reflects on how to stay present, accept grief when it comes and trust in the strength of the human spirit. “Resilience is our shared genetic inheritance,” she says. (This virtual conversation is part of the TED Connects series, hosted by head of TED Chris Anderson and head of curation Helen Walters. Recorded April 2, 2020)\n\nThe TED Talks channel features the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes (or less). Look for talks on Technology, Entertainment and Design -- plus science, business, global issues, the arts and more. You're welcome to link to or embed these videos, forward them to others and share these ideas with people you know. For more information on using TED for commercial purposes (e.g. employee learning, in a film or online course), submit a Media Request here: http://media-requests.TED.com\n\nFollow TED on Twitter: http://twitter.com/TEDTalks\nLike TED on Facebook: http://facebook.com/TED\n\nSubscribe to our channel: http://youtube.com/TED",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oNBvC25bxQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oNBvC25bxQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oNBvC25bxQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oNBvC25bxQU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oNBvC25bxQU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-04-02T22:33:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PD4KFXgWIhuLVtB0zeN-3l3WM2A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "A6Prtgjw6uA"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-24T05:00:38Z",
+        "channelId": "UCPvLJ7YsMqPWkHEfv4ftFZQ",
+        "title": "How To Become A Master In The Art of Public Speaking (Part 2 of 2) | Eric Edmeades",
+        "description": "Do you have a fear of public speaking? Or perhaps you just want to improve on your public speaking abilities.Well, in this talk from Mindvalley University in Tallinn 2018, Eric Edmeades, gives us some great tips on how you can master the art of public speaking.\n\nPart 1 here 👉https://youtu.be/dHAbmoFHqgA\n\nGet transformational mentoring with the world’s best teachers storytellers and public speakers. Sign up for Mindvalley Mentoring and get access 👉 https://go.mindvalley.com/LquF0-gJ\n\n#Subscribe #PublicSpeaking #PublicSpeakingTips",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/A6Prtgjw6uA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/A6Prtgjw6uA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/A6Prtgjw6uA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/A6Prtgjw6uA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/A6Prtgjw6uA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mindvalley Talks",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-24T05:00:38Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_RtpsRr5nKF4HDTVgkkyHaAAYQE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "c-4flnuxNV4"
+      },
+      "snippet": {
+        "publishedAt": "2008-12-17T18:00:22Z",
+        "channelId": "UCAuUUnT6oDeKwE6v1NGQxug",
+        "title": "Why we make bad decisions | Dan Gilbert",
+        "description": "http://www.ted.com Dan Gilbert presents research and data from his exploration of happiness -- sharing some surprising tests and experiments that you can also try on yourself. Watch through to the end for a sparkling Q&A with some familiar TED faces.\r\nTEDTalks is a daily video podcast of the best talks and performances from the TED Conference, where the world's leading thinkers and doers give the talk of their lives in 18 minutes. TED stands for Technology, Entertainment, Design, and TEDTalks cover these topics as well as science, business, development and the arts. Watch the Top 10 TEDTalks on TED.com, at http://www.ted.com/index.php/talks/top10",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c-4flnuxNV4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c-4flnuxNV4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c-4flnuxNV4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TED",
+        "liveBroadcastContent": "none",
+        "publishTime": "2008-12-17T18:00:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Rgm1dX1Ph1BSSgM9RCvl975Ts4A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UC7sqzWJWSY"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-30T20:02:30Z",
+        "channelId": "UCI4hSXhMQILTEL6ksGAb6mA",
+        "title": "TED Linguagem Corporal: poses de poder (dublado em português)",
+        "description": "Em uma das palestras mais famosas e acessadas do TED, a pesquisadora Amy Cuddy ensina como usar a linguagem corporal e as poses de poder a nosso favor, em situações de stress. \n\nDublado em português para quem gosta de ouvir este conteúdo poderosíssimo, enquanto faz outras atividades. \n\nLink para o livro dela: O Poder da Sua Presença \nhttps://amzn.to/38Fmd3F\n\n🙏 Se meu trabalho de dublagem foi útil para você de alguma forma, você poderia se inscrever no canal como forma de me dizer que gostou? \n\n(esse conteúdo não é monetizado - por favor, se inscreva no canal e deixe seu comentário como apoio, para eu saber que você quer mais conteúdos desse tipo!)\n\nDesta forma, posso trazer novos TEDs dublados da sua preferência 😉\n\n 🅼🆄🅸🆃🅾 🅾🅱🆁🅸🅶🅰🅳🅰\n\n=================\n🗓️ Vídeo novo toda quinta-feira 20h\n🔔 Se inscreva no canal e ative as notificações \n\n📸 Me acompanhe também no Instagram \n https://www.instagram.com/vaniavm/\n\n🌐 Visite meu site e saiba mais sobre meu trabalho \n https://vaniamarques.com.br/\n\n🎁 Meu presente para você - ebook grátis \n📕 Cinco erros que você comete em sua comunicação interpessoal e nem percebe \n https://mailchi.mp/aae9a81ab598/ebook-5-erros\n\n💬 🎯 Conheça meu curso online\nConversas Produtivas: como dar feedbacks na vida pessoal e profissional \nhttps://conversasprodutivas.vaniamarques.com.br/\n\n🏆 Playlist com os vídeos mais assistidos do canal \nhttps://youtube.com/playlist?list=PL3USElg67ebtXRHjj1JNNJ1e6XYWAlTEx\n\n✉ Contato comercial:\n vania@vaniamarques.com.br\n\n😎 Quer DESENROLAR na vida pessoal e na carreira, com uma comunicação assertiva e resultados sem desculpas? Clique aqui 👇🏼\n https://www.youtube.com/channel/UCI4hSXhMQILTEL6ksGAb6mA?sub_confirmation=1\n\nUm abraço, 🤗\n\nVânia Marques\n=================",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UC7sqzWJWSY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UC7sqzWJWSY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UC7sqzWJWSY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UC7sqzWJWSY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Vânia Marques",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-30T20:02:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "s5GoSYhaPViON-6jW1OJB9Pf1vI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ATo9sYax-AQ"
+      },
+      "snippet": {
+        "publishedAt": "2019-01-31T16:19:51Z",
+        "channelId": "UCuIFW5miIr0y_-SKk3ex5yQ",
+        "title": "Presence: Bringing Your Boldest Self to Your Biggest Challenges | Dr. Amy Cuddy | IDEAcademy 2018",
+        "description": "Some of life’s biggest hurdles call for moments of sincerity and control. Too often, we approach these high-pressure moments with fear and execute with anxiety. Based on her best-selling book Presence: Bringing Your Boldest Self to Your Biggest Challenges, Harvard Business School professor and social psychologist Amy Cuddy shares revolutionary research and personal narratives in this impassioned, engaging, and innovative presentation. You will learn simple techniques to complete inner transformation, harness the power of presence, and perform at the highest levels of confidence.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ATo9sYax-AQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Eastman",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-01-31T16:19:51Z"
+      }
+    }
+  ]
+}
