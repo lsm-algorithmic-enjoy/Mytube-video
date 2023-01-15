@@ -14,6 +14,12 @@ Netlify deployment: https://mytubesite.netlify.app/
 
 # 프로젝트 메인 화면
 
+<img src="main.png"/>
+
 # 검색 결과를 보여주는 화면
 
+<img src="search.png"/>
+
 # 비디오 상세페이지 화면
+
+<img src="detail.png"/>
