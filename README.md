@@ -6,5 +6,6 @@ About Project
 2. Outlet을 이용한 SearchHeader 구현
 3. Tailwind-CSS를 이용한 스타일링
 4. React-Query 및 Context Api 적용
+5. Youtube OpenAPI를 이용한 비디오카드 구현, timeago.js 라이브러리 적용
 
 Netlify deployment: https://mytubesite.netlify.app/
