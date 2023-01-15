@@ -1,6 +1,6 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "Hmc7kXa6J4GueROd3JDDazgwwYM",
+  "etag": "QUtrttoVB1pDDpTMObkZQDmFGEw",
   "nextPageToken": "CBkQAA",
   "regionCode": "US",
   "pageInfo": {
@@ -10,846 +10,852 @@
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "hrpcK8SLYAtACZNAaGTAwnZvVIg",
+      "etag": "0KI8McjaaEEcKONu8kmfQsdOMYU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "H26Jg_eMqBM"
+        "videoId": "88kd9tVwkH8"
       },
       "snippet": {
-        "publishedAt": "2022-12-07T13:00:02Z",
-        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "[CHOREOGRAPHY] j-hope ‘MORE’ Dance Practice (MAMA 2022 ver.)",
-        "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
+        "publishedAt": "2023-01-05T22:22:55Z",
+        "channelId": "UCBJycsmduvYEL83R_U4JriQ",
+        "title": "What is Happening with iPhone Camera?",
+        "description": "What exactly is happening with the iPhone's camera? The Blind Smartphone Camera Test: https://youtu.be/LQdjmGimh04 ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/H26Jg_eMqBM/default.jpg",
+            "url": "https://i.ytimg.com/vi/88kd9tVwkH8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/H26Jg_eMqBM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/88kd9tVwkH8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/H26Jg_eMqBM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/88kd9tVwkH8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "BANGTANTV",
+        "channelTitle": "Marques Brownlee",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-12-07T13:00:02Z"
+        "publishTime": "2023-01-05T22:22:55Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "CHVY06zoJiMKKgflQF0fZJVJwGw",
+      "etag": "kpWeZnMJPDMZRrVyEwt21RKsUxU",
       "id": {
         "kind": "youtube#video",
-        "videoId": "gdZLi9oWNZg"
+        "videoId": "-cT87-9FBDA"
       },
       "snippet": {
-        "publishedAt": "2020-08-21T03:58:10Z",
-        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-        "title": "BTS (방탄소년단) &#39;Dynamite&#39; Official MV",
-        "description": "BTS (방탄소년단) 'Dynamite' Official MV Credits: Director: Yong Seok Choi (Lumpens) Assistant Director: Jihye Yoon (Lumpens) ...",
+        "publishedAt": "2023-01-12T22:30:59Z",
+        "channelId": "UCz0zSuukBglV2YwG3_7uKRg",
+        "title": "Apple&#39;s risky plan to SAVE the iPhone!",
+        "description": "Apple's HUGE iPhone 15 changes! - https://youtu.be/sjgVKfxwqv8 Apple Shocks the World! Apple Event 2023!",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/default.jpg",
+            "url": "https://i.ytimg.com/vi/-cT87-9FBDA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-cT87-9FBDA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/gdZLi9oWNZg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/-cT87-9FBDA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HYBE LABELS",
+        "channelTitle": "The Apple Circle",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-08-21T03:58:10Z"
+        "publishTime": "2023-01-12T22:30:59Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "CH3DAisyph4qif5MR4I7mZwH9Pc",
+      "etag": "gmY9vo6tocWO42sguwjw-Rk8C3I",
       "id": {
         "kind": "youtube#video",
-        "videoId": "2vfmL4q2koo"
+        "videoId": "yi-h5hNzTVw"
       },
       "snippet": {
-        "publishedAt": "2022-12-06T15:00:00Z",
-        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-        "title": "RM &#39;Still Life (with Anderson .Paak)&#39; Official MV",
-        "description": "RM 'Still Life (with Anderson .Paak)' Official MV Credits: Director: Bang Jaeyeob (BANGJAEYEOBFILM) Assiatant Director: Nany ...",
+        "publishedAt": "2022-12-15T22:10:15Z",
+        "channelId": "UCz0zSuukBglV2YwG3_7uKRg",
+        "title": "Why Apple is ending the iPhone in 2023",
+        "description": "Shop TORRAS Guardian case: https://bit.ly/3G0hPuh Shop TORRAS Diamond case: https://amzn.to/3j3eDEN Shop TORRAS ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/2vfmL4q2koo/default.jpg",
+            "url": "https://i.ytimg.com/vi/yi-h5hNzTVw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/2vfmL4q2koo/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yi-h5hNzTVw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/2vfmL4q2koo/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/yi-h5hNzTVw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HYBE LABELS",
+        "channelTitle": "The Apple Circle",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-12-06T15:00:00Z"
+        "publishTime": "2022-12-15T22:10:15Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "YxqrFli7KjpBLqYOZ8xB7zFN9wI",
+      "etag": "HiUWdQMvE64fp8gFYwuEfjawCus",
       "id": {
         "kind": "youtube#video",
-        "videoId": "XsX3ATc3FbA"
+        "videoId": "FT3ODSg1GFE"
       },
       "snippet": {
-        "publishedAt": "2019-04-12T09:00:02Z",
-        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-        "title": "BTS (방탄소년단) &#39;작은 것들을 위한 시 (Boy With Luv) (feat. Halsey)&#39; Official MV",
-        "description": "BTS (방탄소년단) '작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)' Official MV Credits: Director : YongSeok Choi (Lumpens) ...",
+        "publishedAt": "2022-09-07T19:05:27Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Introducing iPhone 14 Pro | Apple",
+        "description": "What lies beyond a traditional smartphone? Let's find out. This is iPhone 14 Pro. It starts with the Dynamic Island, an interactive ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/default.jpg",
+            "url": "https://i.ytimg.com/vi/FT3ODSg1GFE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FT3ODSg1GFE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/XsX3ATc3FbA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/FT3ODSg1GFE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HYBE LABELS",
+        "channelTitle": "Apple",
         "liveBroadcastContent": "none",
-        "publishTime": "2019-04-12T09:00:02Z"
+        "publishTime": "2022-09-07T19:05:27Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "qcz7dTErzD-cerjuK-9Ff6Hnpcw",
+      "etag": "qBelD1hcBHmaTXLF4fM--oAB1IE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "kTlv5_Bs8aw"
+        "videoId": "XOwPgq4z8dQ"
       },
       "snippet": {
-        "publishedAt": "2017-11-24T09:00:02Z",
-        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-        "title": "BTS (방탄소년단) &#39;MIC Drop (Steve Aoki Remix)&#39; Official MV",
-        "description": "BTS (방탄소년단) 'MIC Drop (Steve Aoki Remix)' Official MV Credits: Music Video by GDW, Directed by Woogie Kim Producer: ...",
+        "publishedAt": "2022-09-07T22:00:01Z",
+        "channelId": "UCfw2hvuj40AChU7n-N-PRHA",
+        "title": "History of the iPhone",
+        "description": "Watch the iPhone evolve through fifteen years of development. Starting with the original iPhone in 2007, which revolutionized the ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/default.jpg",
+            "url": "https://i.ytimg.com/vi/XOwPgq4z8dQ/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XOwPgq4z8dQ/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/kTlv5_Bs8aw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/XOwPgq4z8dQ/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HYBE LABELS",
+        "channelTitle": "Apple Explained",
         "liveBroadcastContent": "none",
-        "publishTime": "2017-11-24T09:00:02Z"
+        "publishTime": "2022-09-07T22:00:01Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "CXYamEfDUDHKAoqoZN9G8ct8eR4",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UCLkAepWjdylmXSltofFvsYQ"
-      },
-      "snippet": {
-        "publishedAt": "2012-12-17T03:20:38Z",
-        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "BANGTANTV",
-        "description": "This is the official YouTube channel of BTS. 방탄소년단 공식 유튜브 채널 입니다.",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/NDWZM_aZQZJ81KRMyctZ5WYJbMIeDXLXBbAYfudK9idNpn7jIiamnj4-_3XIvCvKr1fEU7551A=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "BANGTANTV",
-        "liveBroadcastContent": "none",
-        "publishTime": "2012-12-17T03:20:38Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "FxRr64jEbEmaeY_cQ_6HjTIN-vw",
+      "etag": "BWN8hNMD6oroMrvUO8VonW-uNhE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "U9-_iWHY4gI"
+        "videoId": "Qvt39ZTcvsI"
       },
       "snippet": {
-        "publishedAt": "2022-12-06T16:07:53Z",
-        "channelId": "UCdnZdQxYXnbN4uWJg96oGxw",
-        "title": "BTS’ Jin’s enlistment will have no official event – BIGHIT Music",
-        "description": "BTS Jin will enter the military without fanfare. Korean label BIGHIT Music says no official event will be held on the day of BTS ...",
+        "publishedAt": "2023-01-13T18:12:46Z",
+        "channelId": "UCzmwnZ_ZElg6kuE6e5QS4pg",
+        "title": "What to Expect from Apple in 2023! iPhone 15, Apple &#39;Reality Pro&#39; &amp; Touchscreen Macs Incoming?",
+        "description": "Sign up to Morning Brew for free today! https://morningbrewdaily.com/briantong It's everything we expect to see from Apple in ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/U9-_iWHY4gI/default.jpg",
+            "url": "https://i.ytimg.com/vi/Qvt39ZTcvsI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/U9-_iWHY4gI/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Qvt39ZTcvsI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/U9-_iWHY4gI/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Qvt39ZTcvsI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Rappler",
+        "channelTitle": "Brian Tong",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-12-06T16:07:53Z"
+        "publishTime": "2023-01-13T18:12:46Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "Hbg-Oy2Cm1mQC6HAfxQa7vdUkBE",
+      "etag": "iQ6oxyMLioHKo28yGbBUl0XmKkk",
       "id": {
         "kind": "youtube#video",
-        "videoId": "WMweEpGlu_U"
+        "videoId": "VhmnPNIjvKc"
       },
       "snippet": {
-        "publishedAt": "2021-05-21T03:46:13Z",
-        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-        "title": "BTS (방탄소년단) &#39;Butter&#39; Official MV",
-        "description": "BTS (방탄소년단) 'Butter' Official MV Credits: Director: Yong Seok Choi (Lumpens) 1st AD: Jihye Yoon (Lumpens) 2nd AD: Ran ...",
+        "publishedAt": "2023-01-11T15:00:26Z",
+        "channelId": "UCqvULRRboZeXVezSm_XduLQ",
+        "title": "YOU Should Buy the iPhone 11 in 2023, And Here&#39;s Why!",
+        "description": "The iPhone 11 continues to be a powerhouse of practical performance and even 4 years later you should totally buy one. So why ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/WMweEpGlu_U/default.jpg",
+            "url": "https://i.ytimg.com/vi/VhmnPNIjvKc/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/WMweEpGlu_U/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VhmnPNIjvKc/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/WMweEpGlu_U/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/VhmnPNIjvKc/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HYBE LABELS",
+        "channelTitle": "The Everyday Dad",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-05-21T03:46:13Z"
+        "publishTime": "2023-01-11T15:00:26Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "p1tPJo2YiepAJcUFDpDDikbxKVQ",
+      "etag": "vRt_LBcL2DZSnjenX9DjNHorZ8Y",
       "id": {
         "kind": "youtube#video",
-        "videoId": "aqW4xXUgmno"
+        "videoId": "LrmiC6xbkT4"
       },
       "snippet": {
-        "publishedAt": "2022-11-13T10:00:02Z",
-        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "[CHOREOGRAPHY] BTS (방탄소년단) &#39;달려라 방탄 (Run BTS)&#39; Dance Practice",
-        "description": "BTS #방탄소년단 #달려라방탄 #RunBTS Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit ...",
+        "publishedAt": "2022-12-05T19:31:16Z",
+        "channelId": "UCaFGDBmGK_jw66u3av2Ysjw",
+        "title": "iPhone 15 Ultra: DO NOT Buy an iPhone 14 Yet!!!",
+        "description": "Due to production issues at Apple supplier factories in China, the iPhone 14 Pro and ‌iPhone 14 Pro‌ Max are backordered and ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/aqW4xXUgmno/default.jpg",
+            "url": "https://i.ytimg.com/vi/LrmiC6xbkT4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/aqW4xXUgmno/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LrmiC6xbkT4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/aqW4xXUgmno/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/LrmiC6xbkT4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "BANGTANTV",
+        "channelTitle": "MacRumors",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-11-13T10:00:02Z"
+        "publishTime": "2022-12-05T19:31:16Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "0HpNdLdba0aA9qE1Zuej6Rh24PU",
+      "etag": "iw46cFIQX-7D3Cv4TIi2yXE2vTc",
       "id": {
         "kind": "youtube#video",
-        "videoId": "0lapF4DQPKQ"
+        "videoId": "5oqPMD9kIXw"
       },
       "snippet": {
-        "publishedAt": "2020-03-04T15:00:02Z",
-        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-        "title": "BTS (방탄소년단) &#39;Black Swan&#39; Official MV",
-        "description": "BTS (방탄소년단) 'Black Swan' Official MV Credits: Director : YongSeok Choi (Lumpens) Co-Director : Guzza (Lumpens) Assistant ...",
+        "publishedAt": "2022-12-28T06:34:52Z",
+        "channelId": "UCyIz8xeaU78aR4WkJ0kv02g",
+        "title": "iPhone 15 – officially the last Apple smartphone. What&#39;s next?",
+        "description": "Merry Christmas, Ugreen powers up your holiday season 【1】Ugreen DigiNest 65W Charging ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/5oqPMD9kIXw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5oqPMD9kIXw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/0lapF4DQPKQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/5oqPMD9kIXw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HYBE LABELS",
+        "channelTitle": "Arthur Winer",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-03-04T15:00:02Z"
+        "publishTime": "2022-12-28T06:34:52Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "lx4qQexHj6a9EPxIFPFCIROUC3c",
+      "etag": "apv1vIb1avYVgq61sg_Ty-ooucg",
       "id": {
         "kind": "youtube#video",
-        "videoId": "DbXMjAYSa68"
+        "videoId": "0zAXNb5OM4E"
       },
       "snippet": {
-        "publishedAt": "2021-05-30T10:00:01Z",
-        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "[CHOREOGRAPHY] BTS (방탄소년단) &#39;Butter&#39; Special Performance Video",
-        "description": "Artist: RM, Jin, SUGA, j-hope, Jimin, V, Jung Kook Production Artist Contents Studio (HYBE 360) Director: Jang Jeong In Assistant ...",
+        "publishedAt": "2023-01-13T13:00:02Z",
+        "channelId": "UCe8D5lo_zrqS8xtsNspeCgg",
+        "title": "He forgot his #passcode and couldn’t remember it 😱 #shorts #apple #iphone #ios #disabled #fyp #gf",
+        "description": "MONEYTALKSWIRELESS Merch : www.mtwshop.com Tik Tok : https://www.tiktok.com/@moneytalkswireless Instagram ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/DbXMjAYSa68/default.jpg",
+            "url": "https://i.ytimg.com/vi/0zAXNb5OM4E/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/DbXMjAYSa68/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0zAXNb5OM4E/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/DbXMjAYSa68/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0zAXNb5OM4E/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "BANGTANTV",
+        "channelTitle": "MONEY TALKS WIRELESS",
         "liveBroadcastContent": "none",
-        "publishTime": "2021-05-30T10:00:01Z"
+        "publishTime": "2023-01-13T13:00:02Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "DdwsW6Uv1H8oUGV_zGs2b59cp98",
+      "etag": "P5e0g2kVdgZwpuVzpoRr0pUuMj8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "7C2z4GqqS5E"
+        "videoId": "MJB6YciLnJ0"
       },
       "snippet": {
-        "publishedAt": "2018-05-18T09:00:02Z",
-        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-        "title": "BTS (방탄소년단) &#39;FAKE LOVE&#39; Official MV",
-        "description": "BTS (방탄소년단) 'FAKE LOVE' Official MV Director : YongSeok Choi (Lumpens) Assistant Director : WonJu Lee, Guzza, ...",
+        "publishedAt": "2023-01-11T16:50:43Z",
+        "channelId": "UCWsEZ9v1KC8b5VYjYbEewJA",
+        "title": "The BEST iPhone to get in 2023",
+        "description": "The BEST iPhone to get in 2023! Hello all and welcome to this video on the BEST iPhone you can buy in 2023. In this episode, we ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/default.jpg",
+            "url": "https://i.ytimg.com/vi/MJB6YciLnJ0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MJB6YciLnJ0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/7C2z4GqqS5E/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MJB6YciLnJ0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HYBE LABELS",
+        "channelTitle": "Nick Ackerman",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-05-18T09:00:02Z"
+        "publishTime": "2023-01-11T16:50:43Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "7jn7pk40oX4FpFnJru9niTrmznk",
+      "etag": "ESgshz-5yqIIy5sr8honRCkr-84",
       "id": {
         "kind": "youtube#video",
-        "videoId": "pBuZEGYXA6E"
+        "videoId": "20kt9qxxcV8"
       },
       "snippet": {
-        "publishedAt": "2018-08-24T09:00:03Z",
-        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-        "title": "BTS (방탄소년단) &#39;IDOL&#39; Official MV",
-        "description": "BTS (방탄소년단) 'IDOL' Official MV Director : YongSeok Choi (Lumpens) Assistant Director : Guzza, MinJe Jeong, HyeJeong Park ...",
+        "publishedAt": "2023-01-14T13:00:03Z",
+        "channelId": "UCe8D5lo_zrqS8xtsNspeCgg",
+        "title": "BAD BUNNY FAN got mad and Broke his iPHONE 😱 #shorts #badbunny #apple #iphone14 #ios #fyp #iphone",
+        "description": "MONEYTALKSWIRELESS Become a member to get exclusive access to perks!",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/default.jpg",
+            "url": "https://i.ytimg.com/vi/20kt9qxxcV8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/20kt9qxxcV8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/pBuZEGYXA6E/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/20kt9qxxcV8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HYBE LABELS",
+        "channelTitle": "MONEY TALKS WIRELESS",
         "liveBroadcastContent": "none",
-        "publishTime": "2018-08-24T09:00:03Z"
+        "publishTime": "2023-01-14T13:00:03Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "FFVzshl4TAqQSh_uQcpA3vsAleg",
+      "etag": "HT_xvnD9D20KMEEmlYn2GtyeXC8",
       "id": {
         "kind": "youtube#video",
-        "videoId": "MBdVXkSdhwU"
+        "videoId": "QJplvV_Vyn8"
       },
       "snippet": {
-        "publishedAt": "2017-09-18T09:00:02Z",
-        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-        "title": "BTS (방탄소년단) &#39;DNA&#39; Official MV",
-        "description": "BTS (방탄소년단) 'DNA' Official MV Credits: Director : YongSeok Choi (Lumpens) Assistant Director : WonJu Lee (Lumpens) ...",
+        "publishedAt": "2022-11-05T09:03:33Z",
+        "channelId": "UCMiJRAwDNSNzuYeN2uWa0pA",
+        "title": "iPhone 1 vs iPhone 14 Pro Max",
+        "description": "Original iPhone 2G vs iPhone 14 Pro Max! #shorts I spend a LOT of time trying to make my videos as concise, polished and useful ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/default.jpg",
+            "url": "https://i.ytimg.com/vi/QJplvV_Vyn8/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QJplvV_Vyn8/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/MBdVXkSdhwU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/QJplvV_Vyn8/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HYBE LABELS",
+        "channelTitle": "Mrwhosetheboss",
         "liveBroadcastContent": "none",
-        "publishTime": "2017-09-18T09:00:02Z"
+        "publishTime": "2022-11-05T09:03:33Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "eVeF-gBT4xy-r5zkMOIC1_Da7Vg",
+      "etag": "HtVoo2rclyc14RymvdOMeWtM0co",
       "id": {
         "kind": "youtube#video",
-        "videoId": "kXpOEzNZ8hQ"
+        "videoId": "pDYQ5rz1OSA"
       },
       "snippet": {
-        "publishedAt": "2022-06-10T03:59:38Z",
-        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-        "title": "BTS (방탄소년단) &#39;Yet To Come (The Most Beautiful Moment)&#39; Official MV",
-        "description": "BTS (방탄소년단) 'Yet To Come (The Most Beautiful Moment)' Official MV Credits: Director: Yong Seok Choi (Lumpens) 1st AD: ...",
+        "publishedAt": "2023-01-12T09:32:28Z",
+        "channelId": "UCXAWX5r69jcqPTNAhXCSA7Q",
+        "title": "Elon Musk JUST Exposed Apple And The iPhone",
+        "description": "FREE BITCOIN BONUS! Trade on BYBIT https://bit.ly/bybit-emz Get Up To $30030 BONUS & 0 Fees on Spot (Use THIS ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/kXpOEzNZ8hQ/default.jpg",
+            "url": "https://i.ytimg.com/vi/pDYQ5rz1OSA/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/kXpOEzNZ8hQ/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pDYQ5rz1OSA/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/kXpOEzNZ8hQ/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/pDYQ5rz1OSA/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HYBE LABELS",
+        "channelTitle": "Elon Musk Zone",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-06-10T03:59:38Z"
+        "publishTime": "2023-01-12T09:32:28Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "y6ckZTOPSCOR0q0wZYKmfsbHt58",
+      "etag": "7Zuh0l_b5gDrMQDwyzVXx4zGRIs",
       "id": {
         "kind": "youtube#video",
-        "videoId": "gwMa6gpoE9I"
+        "videoId": "0GZ645kSfFI"
       },
       "snippet": {
-        "publishedAt": "2020-02-21T08:59:13Z",
-        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-        "title": "BTS (방탄소년단) &#39;ON&#39; Kinetic Manifesto Film : Come Prima",
-        "description": "BTS (방탄소년단) 'ON' Kinetic Manifesto Film : Come Prima Credits: Director : YongSeok Choi (Lumpens) Executive Producer ...",
+        "publishedAt": "2023-01-13T15:00:00Z",
+        "channelId": "UCtYJT2feifBiVsxSC1S1Jwg",
+        "title": "iPhone 13 mini One Year Later - Better Than iPhone 14??",
+        "description": "This is a one year later review of the iPhone 13 mini. In this review, I go over how my experience has been with the iPhone 13 mini ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/gwMa6gpoE9I/default.jpg",
+            "url": "https://i.ytimg.com/vi/0GZ645kSfFI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/gwMa6gpoE9I/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0GZ645kSfFI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/gwMa6gpoE9I/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/0GZ645kSfFI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HYBE LABELS",
+        "channelTitle": "JSL Review",
         "liveBroadcastContent": "none",
-        "publishTime": "2020-02-21T08:59:13Z"
+        "publishTime": "2023-01-13T15:00:00Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "LrlcwB_TSEG7tr9aDKZj0Jll-Wc",
+      "etag": "JM11bmYGUJUnl5FD2FRyAZEjgqE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "hmE9f-TEutc"
+        "videoId": "Z6leWcCdSGE"
       },
       "snippet": {
-        "publishedAt": "2016-10-09T15:00:02Z",
-        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-        "title": "BTS (방탄소년단) &#39;피 땀 눈물 (Blood Sweat &amp; Tears)&#39; Official MV",
-        "description": "BTS (방탄소년단) '피 땀 눈물 (Blood Sweat & Tears)' Official MV Music video credits: Director: YongSeok Choi (Lumpens) ...",
+        "publishedAt": "2023-01-09T16:30:47Z",
+        "channelId": "UCWsEZ9v1KC8b5VYjYbEewJA",
+        "title": "Should You Buy iPhone 11 Pro Max in 2023?",
+        "description": "Should You Buy iPhone 11 Pro Max in 2023 - Apple iPhone 11 Pro Max launched in 2019 and is now $700 cheaper than when it ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/hmE9f-TEutc/default.jpg",
+            "url": "https://i.ytimg.com/vi/Z6leWcCdSGE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/hmE9f-TEutc/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Z6leWcCdSGE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/hmE9f-TEutc/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Z6leWcCdSGE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HYBE LABELS",
+        "channelTitle": "Nick Ackerman",
         "liveBroadcastContent": "none",
-        "publishTime": "2016-10-09T15:00:02Z"
+        "publishTime": "2023-01-09T16:30:47Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "jkm-9641qWE3R5KzKZOoggZ6_Hg",
+      "etag": "SskRPkROqB0x3Ytwee5KgOlbKPE",
       "id": {
         "kind": "youtube#video",
-        "videoId": "XJDPzNzQ3RE"
+        "videoId": "gJZo6QyI8jw"
       },
       "snippet": {
-        "publishedAt": "2022-10-11T14:00:00Z",
-        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "Run BTS! 2022 Special Episode - Fly BTS Fly Part 1",
-        "description": "RunBTS #달려라방탄 #달방 Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
+        "publishedAt": "2023-01-13T15:30:17Z",
+        "channelId": "UCiIhoHKPMHm0tpga58IBQNQ",
+        "title": "iPhone Storage Full? 25 Hacks To Clear It Out!",
+        "description": "David & David show you 25 different ways to free up storage space on your iPhone, and how to optimize your iPhone so it never ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/XJDPzNzQ3RE/default.jpg",
+            "url": "https://i.ytimg.com/vi/gJZo6QyI8jw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/XJDPzNzQ3RE/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gJZo6QyI8jw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/XJDPzNzQ3RE/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/gJZo6QyI8jw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "BANGTANTV",
+        "channelTitle": "Payette Forward",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-10-11T14:00:00Z"
+        "publishTime": "2023-01-13T15:30:17Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "zJ6hbpYZNUY4W7qBR_EjFobL3aw",
+      "etag": "3aBtarimZ7RaoFMCkXZLTzI2SjY",
       "id": {
         "kind": "youtube#video",
-        "videoId": "BGNkkVrJZks"
+        "videoId": "s4kHIRxlQKk"
       },
       "snippet": {
-        "publishedAt": "2022-08-05T04:00:11Z",
-        "channelId": "UCjDsGV6fgTtXiNsKqwKIxJQ",
-        "title": "benny blanco, BTS &amp; Snoop Dogg - Bad Decisions (Official Music Video)",
-        "description": "Bad Decisions by benny blanco, BTS & Snoop Dogg is out now: https://bennyblanco.lnk.to/BadDecisions Director: Ben Sinclair ...",
+        "publishedAt": "2023-01-12T20:54:29Z",
+        "channelId": "UCx8ZK3Ke8az_sRfGDn0CTOg",
+        "title": "What&#39;s on my iPhone 14 Pro (Jan 2023)",
+        "description": "Chatting through what is on my iPhone from the accessories to my setup and favorite apps. A few mentioned can be found below.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/BGNkkVrJZks/default.jpg",
+            "url": "https://i.ytimg.com/vi/s4kHIRxlQKk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/BGNkkVrJZks/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/s4kHIRxlQKk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/BGNkkVrJZks/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/s4kHIRxlQKk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "bennyblancoVEVO",
+        "channelTitle": "TechMe0ut",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-08-05T04:00:11Z"
+        "publishTime": "2023-01-12T20:54:29Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "dqjYuvzElPDTc6kZ6atB8-eCGB4",
+      "etag": "4bvoEX5_IZGAkGbSb1N7_WTfG-o",
       "id": {
         "kind": "youtube#video",
-        "videoId": "jEdfjuG0Fx4"
+        "videoId": "2m6URTkMHfI"
       },
       "snippet": {
-        "publishedAt": "2022-11-21T15:00:02Z",
-        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "정국 (Jung Kook) &#39;Dreamers&#39; @ FIFA World Cup Qatar 2022 Opening Ceremony",
-        "description": "Dreamers2022 #FIFAWorldCup #JungKook #정국 Listen to Dreamers: https://fifasound.lnk.to/dreamers Connect with BTS: ...",
+        "publishedAt": "2023-01-08T14:21:35Z",
+        "channelId": "UCiQMYozSSTkJ2twtZM1bG9w",
+        "title": "Which iPhone Should You Choose in 2023?",
+        "description": "Apple's latest iPhone lineup can be confusing with the eight different models currently available. In this video I help you decide ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/jEdfjuG0Fx4/default.jpg",
+            "url": "https://i.ytimg.com/vi/2m6URTkMHfI/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/jEdfjuG0Fx4/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2m6URTkMHfI/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/jEdfjuG0Fx4/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/2m6URTkMHfI/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "BANGTANTV",
+        "channelTitle": "zollotech",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-11-21T15:00:02Z"
+        "publishTime": "2023-01-08T14:21:35Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "f18L27p7jC2B8D0qKhT5XXP3wgU",
+      "etag": "0AD9VWWfG-w6hnD9rss7LcQOV-k",
       "id": {
         "kind": "youtube#video",
-        "videoId": "IwzkfMmNMpM"
+        "videoId": "uxqnWOeu-2g"
       },
       "snippet": {
-        "publishedAt": "2022-11-22T12:09:19Z",
-        "channelId": "UCpcTrCXblq78GZrTUTLWeBw",
-        "title": "정국 Jung Kook (of BTS) featuring Fahad Al Kubaisi - Dreamers | FIFA World Cup 2022 Soundtrack",
-        "description": "Dreamers2022 #FIFAWorldCup #JungKook #정국 Listen to Dreamers: https://fifasound.lnk.to/dreamers Connect with BTS: ...",
+        "publishedAt": "2023-01-13T19:00:35Z",
+        "channelId": "UCyHkmpqv8t7r8GXtCIc4hpA",
+        "title": "honest iPhone 14 commercial",
+        "description": "Get Exclusive NordVPN deal here ➼ https://nordvpn.com/rob It's risk-free with Nord's 30-day money-back guarantee!",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/IwzkfMmNMpM/default.jpg",
+            "url": "https://i.ytimg.com/vi/uxqnWOeu-2g/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/IwzkfMmNMpM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uxqnWOeu-2g/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/IwzkfMmNMpM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/uxqnWOeu-2g/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "FIFA",
+        "channelTitle": "rob",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-11-22T12:09:19Z"
+        "publishTime": "2023-01-13T19:00:35Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "uKrMC4Sr_kLAYM6XrgWszHIkUC0",
+      "etag": "MVaSDYdJoiGEl0EZGHYe2Dri6TM",
       "id": {
         "kind": "youtube#video",
-        "videoId": "EJiPWFZjFxU"
+        "videoId": "Gy722tFt0Z0"
       },
       "snippet": {
-        "publishedAt": "2022-12-05T05:00:05Z",
-        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "RM &#39;No.2 (with 박지윤)&#39; Visualizer",
-        "description": "RM #Indigo #RM_No2 Listen to \"Indigo\" https://ingrv.es/Indigo Credits: Brand Experience Design: Hyeri Lee, Yennie Lee Film: ...",
+        "publishedAt": "2023-01-13T16:40:09Z",
+        "channelId": "UCRfq3lviF8ENzMW9dbUmR-w",
+        "title": "Apple iPhone 14 Pro Max Morado Oscuro Unboxing (ASMR)",
+        "description": "Link de compra IPhone 14 Pro Max: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/EJiPWFZjFxU/default.jpg",
+            "url": "https://i.ytimg.com/vi/Gy722tFt0Z0/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/EJiPWFZjFxU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Gy722tFt0Z0/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/EJiPWFZjFxU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Gy722tFt0Z0/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "BANGTANTV",
+        "channelTitle": "El camionero geek",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-12-05T05:00:05Z"
+        "publishTime": "2023-01-13T16:40:09Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "lrpaQtxVhA32tXlozGEhWqCoYws",
+      "etag": "KnDmyB6z9l5uwuzxf7bQxvYWSeI",
       "id": {
         "kind": "youtube#video",
-        "videoId": "ecsWfDLtoc8"
+        "videoId": "Z7lLkE3BZQo"
       },
       "snippet": {
-        "publishedAt": "2022-11-29T14:00:02Z",
-        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "Run BTS! 2022 Special Episode - &#39;RUN BTS TV&#39; On-air Part 2",
-        "description": "Connect with BTS: https://ibighit.com/bts http://twitter.com/BTS_bighit http://twitter.com/BTS_twt ...",
+        "publishedAt": "2023-01-12T19:17:21Z",
+        "channelId": "UCiQMYozSSTkJ2twtZM1bG9w",
+        "title": "iPhone 11 in 2023 - Should You Still Buy it?",
+        "description": "iPhone 11 has been out since 2019 and is no longer sold with the new iPhone 14, 14 Pro or 14 Pro Max on the Apple website or ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/ecsWfDLtoc8/default.jpg",
+            "url": "https://i.ytimg.com/vi/Z7lLkE3BZQo/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/ecsWfDLtoc8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Z7lLkE3BZQo/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/ecsWfDLtoc8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/Z7lLkE3BZQo/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "BANGTANTV",
+        "channelTitle": "zollotech",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-11-29T14:00:02Z"
+        "publishTime": "2023-01-12T19:17:21Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "gT4_Pgr1hcxpMKICtcy8e3Dh754",
+      "etag": "fqTy32HH221YYyKzkhTISMvlA7o",
       "id": {
         "kind": "youtube#video",
-        "videoId": "u18be_kRmC0"
+        "videoId": "ee21Yu1fPHk"
       },
       "snippet": {
-        "publishedAt": "2022-12-02T04:59:59Z",
-        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
-        "title": "RM &#39;들꽃놀이 (with 조유진)&#39; Official MV",
-        "description": "RM '들꽃놀이 (with 조유진)' Official MV Credits: Director: Woogie Kim Executive Producer: Katt Kim, Hyunwoo Nam Head Of ...",
+        "publishedAt": "2023-01-13T15:45:09Z",
+        "channelId": "UCCOrp7GPgZA8EGrbOcIAsyQ",
+        "title": "When Milk Gets inside and iPhone  #Shorts",
+        "description": "This phone took some damage from milk... Let's see if we can fix it! Join this channel to get access to perks: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/u18be_kRmC0/default.jpg",
+            "url": "https://i.ytimg.com/vi/ee21Yu1fPHk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/u18be_kRmC0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ee21Yu1fPHk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/u18be_kRmC0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ee21Yu1fPHk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "HYBE LABELS",
+        "channelTitle": "Phone Repair Guru",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-12-02T04:59:59Z"
+        "publishTime": "2023-01-13T15:45:09Z"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "2cynSWBp_KIt_Ohq_SofY581zRw",
+      "etag": "P5R2_9mZjs-sa1QI6ylpGAdNKc0",
       "id": {
         "kind": "youtube#video",
-        "videoId": "7ddN2icSFRA"
+        "videoId": "ESLnU9ujXHw"
       },
       "snippet": {
-        "publishedAt": "2022-11-22T14:00:10Z",
-        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "Run BTS! 2022 Special Episode - &#39;RUN BTS TV&#39; On-air Part 1",
-        "description": "[Video Source Support] Youtube channel \"freeticon\" : https://www.youtube.com/channel/UCR0gCihMuPcEafKOroPS1xg Connect ...",
+        "publishedAt": "2023-01-14T00:53:06Z",
+        "channelId": "UCtElPRBknvsgmtGJ1N_ExmQ",
+        "title": "If i laugh, you get a new IPHONE",
+        "description": "tiktok try not to laugh challenge but if i laugh you get the new iphone 14 pro Main channel ▷@FuriousFade Twitter ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/7ddN2icSFRA/default.jpg",
+            "url": "https://i.ytimg.com/vi/ESLnU9ujXHw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/7ddN2icSFRA/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ESLnU9ujXHw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/7ddN2icSFRA/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/ESLnU9ujXHw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "BANGTANTV",
+        "channelTitle": "Fade",
         "liveBroadcastContent": "none",
-        "publishTime": "2022-11-22T14:00:10Z"
+        "publishTime": "2023-01-14T00:53:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aFzw67rVlEi9eWLsECp4PtWTRIs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OqLkxNuCkYA"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-13T18:00:10Z",
+        "channelId": "UCy1PnKNVtEG-SfSzyIfnvrA",
+        "title": "iPhone 12 Pro In 2023! (Still Worth Buying?) (Review)",
+        "description": "Get The iPhone 14 Pro Here: https://amzn.to/3Qa20o1 Get The iPhone 13 Pro Here: https://amzn.to/3o6DMPz Get The Cheapest ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OqLkxNuCkYA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OqLkxNuCkYA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OqLkxNuCkYA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Simple Alpaca",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-13T18:00:10Z"
       }
     }
   ]
