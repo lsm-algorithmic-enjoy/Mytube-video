@@ -1,4 +1,4 @@
-# Mytube (Youtube 레이아웃 반영) 웹사이트 프로젝트 (미완성 + 진행중인 프로젝트 입니다.)
+# Mytube (Youtube 레이아웃 반영) 웹사이트 프로젝트 
 
 About Project
 
