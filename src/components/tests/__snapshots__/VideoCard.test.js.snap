@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`VideoCard renders grid type correctly 1`] = `
+<li
+  className=""
+  onClick={[Function]}
+>
+  <img
+    alt="title"
+    className="w-full"
+    src="http://image/"
+  />
+  <div>
+    <p
+      className="font-semibold my-2 line-clamp-2"
+    >
+      title
+    </p>
+    <p
+      className="text-sm opacity-80"
+    >
+      channelTitle
+    </p>
+    <p
+      className="text-sm opacity-60"
+    >
+      just now
+    </p>
+  </div>
+</li>
+`;
+
+exports[`VideoCard renders list type correctly 1`] = `
+<li
+  className="flex gap-1 m-2"
+  onClick={[Function]}
+>
+  <img
+    alt="title"
+    className="w-60 mr-2"
+    src="http://image/"
+  />
+  <div>
+    <p
+      className="font-semibold my-2 line-clamp-2"
+    >
+      title
+    </p>
+    <p
+      className="text-sm opacity-80"
+    >
+      channelTitle
+    </p>
+    <p
+      className="text-sm opacity-60"
+    >
+      just now
+    </p>
+  </div>
+</li>
+`;
