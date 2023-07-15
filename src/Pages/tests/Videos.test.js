@@ -1,7 +1,7 @@
 import * as React from "react";
 import "@testing-library/jest-dom";
 import { screen, render, waitFor } from "@testing-library/react";
-import { withRoute, withAllContexts, withRouter } from "../../tests/utils";
+import { withAllContexts, withRouter } from "../../tests/utils";
 import { Route } from "react-router-dom";
 import Videos from "../Videos";
 import { fakeVideo, fakeVideos } from "../../tests/videos";
