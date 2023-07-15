@@ -1,4 +1,4 @@
-# Mytube (Youtube 레이아웃 반영) 웹사이트 프로젝트 
+# Mytube (Youtube 레이아웃 반영) 웹사이트 프로젝트
 
 About Project
 
@@ -8,6 +8,7 @@ About Project
 4. React-Query 및 Context Api 적용
 5. Youtube OpenAPI를 이용한 비디오카드 구현, timeago.js 라이브러리 적용
 6. 각 비디오별 상세페이지 구현
+7. Testing Library 도입
 
 Netlify deployment: https://mytubesite.netlify.app/
 (유튜브 Open API의 경우 하루 요청 횟수 제한이 있습니다.)

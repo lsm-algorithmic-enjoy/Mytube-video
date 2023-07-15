@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ChannelInfo renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="flex my-4 mb-8 items-center"
+  >
+    <img
+      alt="channel"
+      class="w-10 h-10 rounded-full"
+      src="url"
+    />
+    <p
+      class="text-lg font-medium ml-2"
+    >
+      channel
+    </p>
+  </div>
+</DocumentFragment>
+`;
